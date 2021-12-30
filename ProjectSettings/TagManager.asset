@@ -6,6 +6,7 @@ TagManager:
   tags:
   - present
   - Tree
+  - music
   layers:
   - Default
   - TransparentFX

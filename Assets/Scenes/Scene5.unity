@@ -2418,7 +2418,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2a9e0552dc0ee74d93c6b3532cda333, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nextScene: Assets/Scenes/Scene1.unity
+  nextScene: Assets/Scenes/Scene6.unity
   requiredPresents: 4
 --- !u!1 &495608502
 GameObject:
